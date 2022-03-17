@@ -16,3 +16,41 @@
    padding: 9px 25px;
    cursor: pointer;
 }
+.cat1,
+.cat2,
+.cat3 {
+   padding: 10px 30px;
+   border-radius: 10px;
+   color: white;
+}
+
+.cat1 {
+   background-color: orange;
+}
+.cat2 {
+   background-color: rgb(226, 77, 101);
+}
+.cat3 {
+   background-color: rgb(62, 62, 246);
+}
+.categories img {
+   width: 120px;
+}
+.card {
+   box-shadow: 5px 5px 10px lightgray;
+   border: none;
+   margin-right: 20px;
+}
+.card-footer {
+   border-top: none;
+   background-color: #fff;
+}
+#ContactUs {
+   height: 300px;
+}
+#ContactUs h6 {
+   color: gray;
+}
+footer {
+   text-align: center;
+}
